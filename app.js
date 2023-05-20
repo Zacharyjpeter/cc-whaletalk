@@ -12,6 +12,8 @@ for (let i = 0; i < input.length; i++) {
     if (input[i] === vowels[j]) {
       /* console.log(input[i]);
       important note: this log will not include a capital "I" bc the if statement uses === and requires an exact match*/
+      resultArray.push(input[i]);
+      console.log(resultArray);
     }
   }
 }
