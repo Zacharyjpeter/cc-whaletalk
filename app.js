@@ -1,7 +1,6 @@
-const input = "i hate it here.";
+const input = "i hate it here";
 const vowels = ["a", "e", "i", "o", "u"];
 const resultArray = [];
-let resultString = resultArray;
 
 //this for loop counts the array item index
 for (let i = 0; i < input.length; i++) {
@@ -23,5 +22,6 @@ for (let i = 0; i < input.length; i++) {
   }
 }
 
-//not sure how to get this to join and uppercase simultaneously
-console.log(resultString.join());
+//joins and capitalizes the result array and assigns it to result string so it can be logged
+let resultString = resultArray.join("").toUpperCase();
+console.log(resultString);
