@@ -1,9 +1,7 @@
 <h1>Whale Talk: Array Project</h1>
 <br>
-<br>
 <h3>Description</h3>
 A simple array project that helped me practice loops.
-<br>
 <br>
 <h3>Challenges</h3>
 On line 26 the project asked that two methods be used simultaneously. I didn't know they could be used back to back like that. I thought they could only be nested within each other. After giving it 24hrs, I tried using Bard for help. Ultimately, I used Codecademy's walkthrough video to see the solution. 
