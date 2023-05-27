@@ -1,5 +1,4 @@
 <h1>Whale Talk: Array Project</h1>
-<br>
 <h3>Description</h3>
 A simple array project that helped me practice loops.
 <br>
